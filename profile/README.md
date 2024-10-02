@@ -28,7 +28,7 @@ I nostri tool fanno cose tipo:
   Il Vivere Ingegneria Code Hub è **sempre in crescita!** 🎯
   Ecco alcuni **progetti su cui stiamo lavorando** o che **potremmo sviluppare** presto:
   
-  1. **Bot Oggetti Smarriti **🕵️‍♂️
+  1. **Bot Oggetti Smarriti** 🕵️‍♂️
     Un bot che ti aiuterà a ritrovare quegli **oggetti** che misteriosamente **scompaiono** durante le lezioni o nei corridoi dell’università. 
     Puoi **segnalare** e **cercare** oggetti smarriti, **facilitando** il processo di **recupero** per tutti! 🔑🎒
   
