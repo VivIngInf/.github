@@ -2,7 +2,7 @@
 
 Benvenuto nel Vivere Ingegneria Code Hub! 🎉 
 
-Questo è il nostro spazio dedicato allo sviluppo di bot e applicazioni utili per alleggerire il lavoro dei rappresentanti di Vivere Ingegneria, l’associazione studentesca dell'Università degli Studi di Palermo (UNIPA) che si impegna ogni giorno per migliorare la vita degli studenti del Dipartimento di Ingegneria.
+Questo è il nostro **spazio dedicato allo sviluppo di bot e applicazioni** utili per alleggerire il lavoro dei rappresentanti di **Vivere Ingegneria**, l’associazione studentesca dell'**Università degli Studi di Palermo** (UNIPA) che si impegna ogni giorno per **migliorare la vita degli studenti** del Dipartimento di Ingegneria.
 
 ## 🚀 Obiettivo del Code Hub
 
