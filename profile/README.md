@@ -6,7 +6,9 @@ Questo è il nostro **spazio dedicato allo sviluppo di bot e applicazioni** util
 
 ## 🚀 Obiettivo del Code Hub
 
-L’**obiettivo principale** di questo Hub è **rendere tutto più semplice e automatizzato** 💡. Creiamo strumenti che aiutano i rappresentanti a **risparmiare tempo e fatica**, semplificando la gestione di orari, vendite e molto altro.
+L’**obiettivo principale** di questo Hub è **rendere tutto più semplice e automatizzato** 💡 
+Creiamo strumenti che aiutano i rappresentanti a **risparmiare tempo e fatica**, semplificando la gestione di orari, vendite e molto altro.
+
 I nostri tool fanno cose tipo:
   - 📅 **Creare orari** delle lezioni con un click
   - ☕ Monitorare e **gestire il magazzino**
