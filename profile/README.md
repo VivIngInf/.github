@@ -1,10 +1,10 @@
-# 🎓 Vivere Ingegneria Code Hub
+# 🎓 Vivere Ingegneria Dev Hub
 
-Benvenuto nel **Vivere Ingegneria Code Hub**! 🎉 
+Benvenuto nel **Vivere Ingegneria Dev Hub**! 🎉 
 
 Questo è il nostro **spazio dedicato allo sviluppo di bot e applicazioni** utili per alleggerire il lavoro dei rappresentanti di **Vivere Ingegneria**, l’associazione studentesca dell'**Università degli Studi di Palermo** (UNIPA) che si impegna ogni giorno per **migliorare la vita degli studenti** del Dipartimento di Ingegneria.
 
-## 🚀 Obiettivo del Code Hub
+## 🚀 Obiettivo del Dev Hub
 
 L’**obiettivo principale** di questo Hub è **rendere tutto più semplice e automatizzato** 💡 
 Creiamo strumenti che aiutano i rappresentanti a **risparmiare tempo e fatica**, semplificando la gestione di orari, vendite e molto altro.
@@ -25,7 +25,7 @@ I nostri tool fanno cose tipo:
     I Corsi Coding Zero sono perfetti per chi vuole muovere i primi passi nel mondo della programmazione. Imparerai le **basi del coding** e a muoverti nell’**ambiente Linux**. È l'occasione perfetta per **sviluppare competenze tech essenziali**!
 
 ## 🔮 **Progetti futuri**
-  Il Vivere Ingegneria Code Hub è **sempre in crescita!** 🎯
+  Il Vivere Ingegneria Dev Hub è **sempre in crescita!** 🎯
   Ecco alcuni **progetti su cui stiamo lavorando** o che **potremmo sviluppare** presto:
   
   1. **Bot Oggetti Smarriti** 🕵️‍♂️
@@ -40,4 +40,4 @@ I nostri tool fanno cose tipo:
   
 ## 🤝 Unisciti a noi!
   Siamo **sempre alla ricerca di nuove idee** per bot e strumenti che possano rendere la vita accademica più semplice e organizzata. Se hai **suggerimenti**, **faccelo sapere**!
-  Vivere Ingegneria Code Hub è più di una raccolta di strumenti, è la nostra visione per un **futuro più smart e a portata di studente**!
+  Vivere Ingegneria Dev Hub è più di una raccolta di strumenti, è la nostra visione per un **futuro più smart e a portata di studente**!
